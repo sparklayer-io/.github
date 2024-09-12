@@ -1,11 +1,10 @@
-### Ticket link
+# [DEV-]()
+
+## Changes summary
 ...
 
-### Changes summary
+## Risks
 ...
 
-### Risks
-...
-
-### Manual testing done
+## Manual testing done
 ...
