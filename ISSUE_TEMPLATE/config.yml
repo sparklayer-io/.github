@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/sparklayer-io/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately, not as an issue.
+  - name: Get help with SparkLayer
+    url: https://docs.sparklayer.io/
+    about: Read the docs, or email support@sparklayer.io.
+  - name: Raise a ticket (SparkLayer team)
+    url: https://linear.app/sparklayer
+    about: Bugs and feature requests are tracked in Linear.
